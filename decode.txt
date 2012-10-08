@@ -1,0 +1,80 @@
+01-06 16:51:01.423: I/BluetoothHDPService(5896): e7000046004410000101003e0000ffffffff0d1d
+0034	//length of total bytes (use this to allocate the memory)
+
+//from here to below is parse data
+f000	//id
+
+0000	//number of transmission
+
+0002	//number of data packet
+002c	//data length
+
+0001	//handle
+0012	//handle length
+0003	//ignore
+0006	//ignore
+0067	//sys
+0042	//dia
+004c	//MAP
+2012010616521300	//time
+
+0001	//handle 89
+0012	//length 1011
+0003	//ignore 1213
+0006	//ignore
+006d	//sys
+003e	//dia
+0043	//MAP
+2012010616550400	//time
+
+
+01-06 16:51:01.724: I/BluetoothHDPService(5896): e7000036003410010101002e0000ffffffff0d1d
+0024
+f000
+
+0001
+
+0002	//handle = 2
+001c	//lenght
+0002	//ignore (pulse and timestampe)
+000a	//ignore
+0046	//pulse
+2012010616521300
+0002	//another pulse
+000a
+0052
+2012010616550400
+
+
+01-06 16:51:25.474: I/BluetoothHDPService(5896): e7000030002e1002010100280000ffffffff0d1d
+001e	//length
+f000
+
+0002	//ignore
+
+0001	//handle
+0016	//length
+0001	
+0012
+0003
+0006
+006c
+003f
+004b
+2012010616575400
+
+
+01-06 16:51:25.630: I/BluetoothHDPService(5896): e700002800261003010100200000ffffffff0d1d
+0016
+f000
+
+0003
+
+0001	//number of data
+
+000e
+0002
+000a
+004d
+2012010616575400
+
