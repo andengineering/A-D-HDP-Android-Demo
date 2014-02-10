@@ -58,7 +58,7 @@ public class BluetoothHDPActivity extends Activity {
 	// 0x1007 - blood pressure meter
 	// 0x1008 - body thermometer
 	// 0x100F - body weight scale
-	private static final int HEALTH_PROFILE_SOURCE_DATA_TYPE = 0x100F;
+	private static final int HEALTH_PROFILE_SOURCE_DATA_TYPE = 0x1007;
 
 	private static final int REQUEST_ENABLE_BT = 1;
 
