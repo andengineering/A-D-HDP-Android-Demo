@@ -13,7 +13,6 @@ A&D Engineering, Inc.
 ### README:
 This project is created for A&D telemedicine devices:
 > UA-767PBT-C
-> UC-321PBT-C
 
 ### Changelog:
 10/8/12 v0.1 first commit
