@@ -1,3 +1,7 @@
+Copyright (c) 2015 A&D Company, Limited
+Released under the MIT license
+http://opensource.org/licenses/mit-license.php
+
 A-D-HDP-Android-Demo
 ====================
 A&D Medical Inc. www.andonline.com
